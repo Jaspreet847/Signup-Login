@@ -3,23 +3,3 @@
     padding:0;
     box-sizing: border-box;
 }
-div#root{
-    width:100%;
-}
-
-
-.formain{
-    height: 100vh;
-    width: 100%!important;
-    display: flex;
-    justify-content:center;
-    align-items:center;
-    background-color:lightyellow
-}
-.formgroup{
-border:none;
-border-radius: 25px;
-padding: 30px;
-background-color: aqua;
-box-shadow: lightgoldenrodyellow;
-}

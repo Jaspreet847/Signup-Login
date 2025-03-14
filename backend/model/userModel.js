@@ -7,6 +7,7 @@ const UserSchema =new mongoose.Schema({
 });
 
 
+
 const UserModel = mongoose.model("Users",UserSchema); //Users is database
 
 module.exports = UserModel ;
